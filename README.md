@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/85367fcb-2f95-4c14-a1fd-350636baff29
+
 # QR Code Detection Using OpenCV with Python
 
 ## Overview
