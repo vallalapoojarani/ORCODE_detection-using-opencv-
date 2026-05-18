@@ -43,8 +43,19 @@ qr-code-detection/
 
 ## QR Code Detection from Image
 
+
+
+
+
+
+
 I<img width="1080" height="2400" alt="WhatsApp Image2" src="https://github.com/user-attachments/assets/84426f40-2c4a-477c-845e-1b4e95df132a" />
 <img width="720" height="1600" alt="WhatsApp Image 1" src="https://github.com/user-attachments/assets/e3265975-fb64-4151-912d-60a1051f0d46" />
+
+
+
+
+
 
 
 
