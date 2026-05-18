@@ -49,8 +49,7 @@ qr-code-detection/
 
 
 
-I<img width="1080" height="2400" alt="WhatsApp Image2" src="https://github.com/user-attachments/assets/84426f40-2c4a-477c-845e-1b4e95df132a" />
-<img width="720" height="1600" alt="WhatsApp Image 1" src="https://github.com/user-attachments/assets/e3265975-fb64-4151-912d-60a1051f0d46" />
+<img width="1152" height="1536" alt="WhatsApp Image 2026-05-18 at 8 47 49 PM" src="https://github.com/user-attachments/assets/35a62990-372c-4a35-9744-93ad3ac91f24" />
 
 
 
